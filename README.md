@@ -1,4 +1,4 @@
-# SRM32-DMA-Multichannel-ADC
+# STM32-DMA-Multichannel-ADC
 This is a simple code you can use to implement Multichannel ADC using DMA on an STM32 Microcontroller. The full tutorial video is available on YouTube:
 
     /* USER CODE BEGIN Includes */
