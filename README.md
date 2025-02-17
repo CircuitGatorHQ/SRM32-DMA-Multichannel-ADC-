@@ -11,7 +11,7 @@ This is a simple code you can use to implement Multichannel ADC using DMA on an 
     uint16_t pot1;
     uint16_t pot2;
     uint32_t readValue[2];
-    char uart_buffer[50];
+    char buffer[50];
     /* USER CODE END PV */
     
     
